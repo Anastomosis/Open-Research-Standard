@@ -15,7 +15,8 @@ Open research publishing is the open standard actively being defined by particip
 ### Bibliographic Control
 A minimum requirement must be established that allows anonymous publications while providing enough information to provide meaningful bibliographic control.
 
-### Formating and Layouts An open standard for formatting and layouts must be established that present published work inline with existing trends in professional publications. Open and free layouts which meet this standard must be made available.
+### Formating and Layouts
+An open standard for formatting and layouts must be established that present published work inline with existing trends in professional publications. Open and free layouts which meet this standard must be made available.
 
 ### Electronic Publishing 
 All publications under the open research standard must us free and open electronic publishing formats such as EPUB.
@@ -31,6 +32,10 @@ This may be accomplished using a variety of methods from releasing the article a
  
 ### Databases
 As a way to provide a guarantee of accessibility open research publishes should provide a searchable database of published articles or work with existing open access databases to release increase accessibility of publications.
+
+*The open standard guidelines are evolving, the Anastomosis Journal will be used as a testing grounds for the concepts and provide insight on what open source tools are needed.*
+
+---
 
 #### Resources
 As more scientists recognize the role of open source software on the advancement of computer science, increasingly scientists in other scientific disciplines are becomming interested in the concept of open science and associated topics. A growing amount of resources are being available to scientists, researchers and publishers interested in open science; anyone interested in open science should familiarize themselves with the existing resources.
