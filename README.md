@@ -25,11 +25,11 @@ A minimum requirement must be established that allows anonymous publications whi
 An open standard for formatting and layouts must be established that present published work in line with existing trends in professional publications. Open and free layouts which meet this standard must be made available.
 
 ### Electronic Publishing 
-All publications under the open research standard must us free and open electronic publishing formats such as (EPUB)[http://idpf.org/epub].
+All publications under the open research standard must us free and open electronic publishing formats such as [EPUB](http://idpf.org/epub).
 
 A variety of methods to address problems with longevity and provide permanent archival of publications will need to be developed. Development of open source tools using blockchains, mainline DHT, or new peer-to-peer software to both archive and guarantee accessibility. Peer-to-peer solutions should be used alongside existing systems like or academic institutions who could be partnered with to store open research publications. Operating as a decentralized organization will help address some of the problems with longevity that electronic publishers can be subject to.
 
-To resolve issues of longevity related to link-rot, a persistent unique identification system must be used that can be updated if the URL changes . Development of an open decentralized identifier system utilizing a DHT or leveraging blockchains is preferred but until a reliable open source identifier system can be implemented all articles published under the open research standard must be assigned a [digital object identifier (DOI)[http://www.doi.org/registration_agencies.html].
+To resolve issues of longevity related to link-rot, a persistent unique identification system must be used that can be updated if the URL changes . Development of an open decentralized identifier system utilizing a DHT or leveraging blockchains is preferred but until a reliable open source identifier system can be implemented all articles published under the open research standard must be assigned a [digital object identifier [DOI](http://www.doi.org/registration_agencies.html).
 
 ### Licensing & Copyright
 All articles published should be accessible "without financial, legal, or technical barriers other than those inseparable from gaining access to the Internet itself."
