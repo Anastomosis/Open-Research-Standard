@@ -9,9 +9,9 @@ Anastomosis falls into a category of scientific literature often called "gray li
 
 **Do we need another scientific journal?** Anastomosis seeks to provide free open science publishing for citizen scientists, hackers, and researchers "without financial, legal, or technical barriers other than those inseparable from gaining access to the Internet itself." 
 
-Free and open peer-reviewed publishing removes all possible barriers to publishing open science for citizen scientist, hackers and researchers who could spend the potential publication fees on additional research can participate in a peer review ,  Existing open access science can be expensive to cover publication cost, one publisher lists "Fees range from $500 to $5,000 US Dollars.", for citizen scientist spending their money
+Free and open peer-reviewed publishing removes all possible barriers to publishing open science for citizen scientist, hackers and researchers. Existing open access science can be expensive to cover publication cost, one publisher lists "Fees range from $500 to $5,000 US Dollars.", for citizen scientist spending their money
 
-Recognizing the myriad of problems associated with the current academic publishing model we believe instead of investing time to reform the existing system, we are able to enact more change by introducing a new open standard, building open source publishing tools and creating high quality publications using these the new standards.
+Acknowledging both the successes and the failures of the current academic publishing model we believe that more change can be made by introducing a new open standard, building open source publishing tools and creating high quality publications using these the new standards to test their efficacy.
 
 We believe a new open standard can be used to define a subset of "gray literature" that we would like to be called "open research publishing". It is an open standard, meaning there is no single definition and interpretations vary with usage. The three key ideas of open research publishing are transparency, public availability or usability and public accessibility. 
 
