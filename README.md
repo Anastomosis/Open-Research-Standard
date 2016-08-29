@@ -7,7 +7,7 @@ Anastomosis utilizes an open submission system, encouraging everyone from unpubl
 
 Anastomosis falls into a category of scientific literature often called "gray literature", a term used to describe a wide variety of literature that is not published by traditional commercial, academic publishing. 
 
-**Do we need another scientific journal?** Anastomosis seeks to provide free open science publishing for citizen scientists, hackers, and researchers "without financial, legal, or technical barriers other than those inseparable from gaining access to the Internet itself." 
+**Do we need another scientific journal?** Anastomosis seeks to provide zero cost open science publishing for citizen scientists, hackers, and researchers "without financial, legal, or technical barriers other than those inseparable from gaining access to the Internet itself." 
 
 Free and open peer-reviewed publishing removes all possible barriers to publishing open science for citizen scientist, hackers and researchers. Existing open access science can be expensive to cover publication cost, one publisher lists "Fees range from $500 to $5,000 US Dollars.", for citizen scientist spending their money
 
