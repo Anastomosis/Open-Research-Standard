@@ -3,7 +3,9 @@
 
 Anastomosis is a peer-reviewed journal, operated by a decentralized network of volunteer scientists whom carefully select not yet published research, essays and journalism related to the broad subject of networks. Topics within the subject of network science can be from any discipline from computer science topics such as computer networks, decentralized software, cryptocurrency to biology topics such as mycology and neuroscience.
 
-Anastomosis utlizes an open submission system, encouraging everyone from first-time authors to researchers to  participate.
+Anastomosis utlizes an open submission system, encouraging everyone from unpublished hacker exploring to published researchers to participate.
+
+
 
 Anastomosis falls into a category of scientific literature often called "gray literature", a term used to describe a wide variety of literature that is not published by traditional commerical, academic publishing. 
 
